@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saurabh Kumar - Portfolio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            background: white;
+            padding: 60px 20px;
+            text-align: center;
+            border-radius: 10px;
+            margin-bottom: 40px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        header h1 {
+            color: #667eea;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        header p {
+            color: #666;
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+        
+        .contact-links {
+            margin: 20px 0;
+        }
+        
+        .contact-links a {
+            display: inline-block;
+            margin: 10px 15px;
+            padding: 10px 20px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        
+        .contact-links a:hover {
+            background: #764ba2;
+        }
+        
+        .section {
+            background: white;
+            padding: 40px;
+            margin-bottom: 30px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        .section h2 {
+            color: #667eea;
+            font-size: 2em;
+            margin-bottom: 30px;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+        }
+        
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 20px;
+        }
+        
+        .skill-box {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            border-left: 4px solid #667eea;
+            transition: transform 0.3s;
+        }
+        
+        .skill-box:hover {
+            transform: translateY(-5px);
+        }
+        
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+        
+        .project-card {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 5px solid #667eea;
+            transition: all 0.3s;
+        }
+        
+        .project-card:hover {
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.3);
+            transform: translateY(-5px);
+        }
+        
+        .project-card h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        
+        .project-card p {
+            color: #666;
+            margin-bottom: 15px;
+        }
+        
+        .project-links {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .project-links a {
+            display: inline-block;
+            padding: 8px 12px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 0.9em;
+            transition: background 0.3s;
+        }
+        
+        .project-links a:hover {
+            background: #764ba2;
+        }
+        
+        footer {
+            text-align: center;
+            color: white;
+            padding: 20px;
+            margin-top: 40px;
+        }
+        
+        footer p {
+            margin-bottom: 10px;
+        }
+        
+        footer a {
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Saurabh Kumar</h1>
+            <p>Web Development & Data Science Engineer</p>
+            <p>Building intelligent solutions with code</p>
+            <div class="contact-links">
+                <a href="mailto:saurabhkumar.conn@gmail.com">📧 Email</a>
+                <a href="https://github.com/Ind-saurabh-kumar" target="_blank">🐙 GitHub</a>
+                <a href="https://linkedin.com/in/indsaurabhkumar" target="_blank">💼 LinkedIn</a>
+            </div>
+        </header>
+
+        <section class="section">
+            <h2>About Me</h2>
+            <p>I'm a passionate full-stack developer and data science enthusiast with expertise in:</p>
+            <ul style="margin-left: 20px; margin-top: 15px;">
+                <li>Web Development (Python, Flask, FastAPI, React)</li>
+                <li>Data Science & Machine Learning</li>
+                <li>Data Structures & Algorithms</li>
+                <li>Cloud Technologies (AWS)</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Technical Skills</h2>
+            <div class="skills-grid">
+                <div class="skill-box">
+                    <h3>Languages</h3>
+                    <p>Python, Java, JavaScript, C#, SQL</p>
+                </div>
+                <div class="skill-box">
+                    <h3>Web Development</h3>
+                    <p>Flask, FastAPI, React, HTML, CSS</p>
+                </div>
+                <div class="skill-box">
+                    <h3>Data Science</h3>
+                    <p>ML, Pandas, NumPy, Scikit-learn</p>
+                </div>
+                <div class="skill-box">
+                    <h3>Cloud & Tools</h3>
+                    <p>AWS, Git, Jupyter, Docker</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Featured Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <h3>Agent Project</h3>
+                    <p>Intelligent agent system built with Python. Features automated decision-making and task execution.</p>
+                    <div class="project-links">
+                        <a href="https://github.com/Ind-saurabh-kumar/Agent_Project" target="_blank">View Code</a>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <h3>Adult Salary Prediction</h3>
+                    <p>Machine learning model for salary prediction using classification algorithms and data analysis.</p>
+                    <div class="project-links">
+                        <a href="https://github.com/Ind-saurabh-kumar/Adult-Salary-Prediction" target="_blank">View Code</a>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <h3>Kharif Crop Disease Prediction</h3>
+                    <p>Deep learning model for predicting crop diseases. Helps farmers with crop management decisions.</p>
+                    <div class="project-links">
+                        <a href="https://github.com/Ind-saurabh-kumar/Kharif-Crop-Disease-Prediction" target="_blank">View Code</a>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <h3>Credit Card Fraud Detection</h3>
+                    <p>ML model detecting fraudulent transactions using anomaly detection techniques.</p>
+                    <div class="project-links">
+                        <a href="https://github.com/Ind-saurabh-kumar/Credit_Card_Fraud_Detection" target="_blank">View Code</a>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <h3>MERN Login System</h3>
+                    <p>Full-stack authentication system using MongoDB, Express, React, and Node.js.</p>
+                    <div class="project-links">
+                        <a href="https://github.com/Ind-saurabh-kumar/MERNLogin" target="_blank">View Code</a>
+                    </div>
+                </div>
+
+                <div class="project-card">
+                    <h3>Hotel Price Prediction</h3>
+                    <p>Predictive model for hotel pricing using regression analysis and market data.</p>
+                    <div class="project-links">
+                        <a href="https://github.com/Ind-saurabh-kumar/Hotel-Price-Prediction" target="_blank">View Code</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Learning & Development</h2>
+            <div class="skills-grid">
+                <div class="skill-box">
+                    <h3>📚 Data Science</h3>
+                    <a href="https://github.com/Ind-saurabh-kumar/Data_Science_Course" target="_blank" style="color: #667eea; text-decoration: none;">Course Work</a>
+                </div>
+                <div class="skill-box">
+                    <h3>🐍 Python DSA</h3>
+                    <a href="https://github.com/Ind-saurabh-kumar/Python_DSA_Course" target="_blank" style="color: #667eea; text-decoration: none;">Solutions</a>
+                </div>
+                <div class="skill-box">
+                    <h3>☕ Java DSA</h3>
+                    <a href="https://github.com/Ind-saurabh-kumar/Java_DSA" target="_blank" style="color: #667eea; text-decoration: none;">Solutions</a>
+                </div>
+                <div class="skill-box">
+                    <h3>⚡ FastAPI</h3>
+                    <a href="https://github.com/Ind-saurabh-kumar/FastApi_Course" target="_blank" style="color: #667eea; text-decoration: none;">Course Work</a>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <p>© 2026 Saurabh Kumar. All rights reserved.</p>
+            <p>This portfolio is open source. <a href="https://github.com/Ind-saurabh-kumar/Ind-saurabh-kumar" target="_blank">View on GitHub</a></p>
+        </footer>
+    </div>
+</body>
+</html>

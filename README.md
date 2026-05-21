@@ -1,22 +1,109 @@
-<h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
-<h3 align="center">A passionate Web Development and Data Science Engineer from India</h3>
+# Professional Portfolio - Saurabh Kumar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ind-saurabh-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="ind-saurabh-kumar" /> </p>
+## 🚀 Welcome to My Portfolio Website
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ind-saurabh-kumar" alt="ind-saurabh-kumar" /></a> </p>
+This is a fully responsive, modern portfolio website showcasing my projects, skills, and experience in **Web Development** and **Data Science**.
 
-- 📫 How to reach me **saurabhkumar.conn@gmail.com**
+## 📋 Features
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/indsaurabhkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indsaurabhkumar" height="30" width="40" /></a>
-</p>
+✨ **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+✨ **Modern UI** - Clean, gradient-based interface with smooth animations
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ind-saurabh-kumar&show_icons=true&locale=en&layout=compact" alt="ind-saurabh-kumar" /></p>
+✨ **Project Showcase** - Featured projects with direct links to GitHub repositories
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ind-saurabh-kumar&show_icons=true&locale=en" alt="ind-saurabh-kumar" /></p>
+✨ **Skills Section** - Organized technical skills and tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ind-saurabh-kumar&" alt="ind-saurabh-kumar" /></p>
+✨ **Contact Links** - Email, GitHub, and LinkedIn integration
+
+## 🛠️ Technologies Used
+
+- **HTML5** - Semantic markup
+- **CSS3** - Modern styling with gradients and animations
+- **Responsive Design** - Mobile-first approach
+
+## 📂 Project Structure
+
+```
+portfolio/
+├── index.html      # Main portfolio page
+└── README.md       # This file
+```
+
+## 🌐 How to Use
+
+1. **View the Portfolio**: Open `index.html` in your web browser
+2. **Customize**: Edit the HTML to add your own information, projects, and links
+3. **Deploy**: Push to GitHub and enable GitHub Pages to host it live
+
+## 🚀 Deploy on GitHub Pages
+
+### Option 1: Using the `main` branch
+1. Go to your repository settings
+2. Navigate to **Pages** section
+3. Select `main` branch as the source
+4. Your site will be available at `https://ind-saurabh-kumar.github.io/Ind-saurabh-kumar/`
+
+### Option 2: Using a dedicated `gh-pages` branch
+1. Create a `gh-pages` branch
+2. Push your `index.html` and other files to this branch
+3. Configure GitHub Pages to use the `gh-pages` branch
+4. Your site will be live automatically
+
+## 📝 Customization Guide
+
+### Update Personal Information
+Edit the header section in `index.html`:
+```html
+<h1>Your Name</h1>
+<p>Your Professional Title</p>
+<a href="mailto:your-email@example.com">📧 Email</a>
+```
+
+### Add New Projects
+Duplicate the project card and update:
+```html
+<div class="project-card">
+    <h3>Project Name</h3>
+    <p>Project description</p>
+    <div class="project-links">
+        <a href="your-repo-link" target="_blank">View Code</a>
+    </div>
+</div>
+```
+
+### Change Color Scheme
+Update the CSS gradient and color variables:
+```css
+body {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+header h1 {
+    color: #667eea;
+}
+```
+
+## 📊 Featured Projects
+
+- **Agent Project** - Intelligent automation system
+- **Crop Disease Prediction** - Deep learning model for agriculture
+- **Fraud Detection** - ML model for financial security
+- **MERN Login System** - Full-stack authentication
+- **Salary Prediction** - Classification model
+
+## 💼 Contact
+
+- **Email**: saurabhkumar.conn@gmail.com
+- **GitHub**: [Ind-saurabh-kumar](https://github.com/Ind-saurabh-kumar)
+- **LinkedIn**: [indsaurabhkumar](https://linkedin.com/in/indsaurabhkumar)
+
+## 📄 License
+
+This portfolio is open source and available under the MIT License.
+
+---
+
+**Last Updated**: May 2026
+
+⭐ If you found this helpful, feel free to star the repository!
